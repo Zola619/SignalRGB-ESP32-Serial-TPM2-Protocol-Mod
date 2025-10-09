@@ -1,5 +1,5 @@
 # SignalRGB ESP32/ESP8266 Serial TPM2 Protocol
-Currenly supported devices
+Currently supported devices
 | ESP32/ESP8266 Device     | Vendor ID | Product ID |
 | ------------------------ | --------- | ---------- |
 | Silicon Labs CP210x      | 0x10C4    | 0xEA60     |
